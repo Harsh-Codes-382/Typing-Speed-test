@@ -26,4 +26,6 @@ JavaScript: Dynamic content generation, real-time metrics, and interactive featu
 Feel free to contribute, provide feedback, or report issues. Happy typing!
 
 # License
-This Typing Speed Test Web App is open-source and available under the MIT License. Feel free to fork, modify, and share!# 
+This Typing Speed Test Web App is open-source and available under the MIT License. Feel free to fork, modify, and share!#
+
+**To view this web App go to URL:**   https://harsh-codes-382.github.io/Typing-Speed-test/ 
